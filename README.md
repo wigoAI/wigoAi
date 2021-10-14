@@ -1,7 +1,8 @@
  # Wigo Ai 연구소
  
- - 기존에 private 로 진행되었던 많은 프로젝트들이 리뉴얼 해서 public으로 변경 후 정식 배포 될 예정입니다.
- - 많은 관심 부탁 드립니다.
+아래 팀주소로 이관합니다 
+
+-https://github.com/wigodev
  
  
  # 문의
